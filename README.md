@@ -1,8 +1,14 @@
 #### a pile of discattes
 
 ![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/!discatte-CURRENT-.png)
+![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte-CLIEPAINT.png)
 ![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte-COOLCAT-240P.png)
+![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte-514catte-nokia64.png)
+
 ![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte-MSPAINT.png)
+
+--- 
+![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/onigiricatte-600dpi.png)
 
 ---
 
@@ -19,6 +25,13 @@
 ![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte_2_0-CMYK.png)
 ![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte_2_1-MICROFLOPPY.png)
 ![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte_2_2-COOLCAT.png)
+
+--
+
+![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte-DELUXEPAINT-artifact-hack.png)
+![meow](https://raw.githubusercontent.com/discatte/diskcat/refs/heads/main/discatte-LOOPY.jpg)
+
+--
 
     |o|,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,|o|
     |o|             _______             |o|
